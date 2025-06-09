@@ -31,5 +31,6 @@ def print_dict(dict: dict) -> None:
         # print(f"The {k} character was found {v} times")
         print(f"{k}: {v}")
 
+# here comes main 😉
 
 main()
